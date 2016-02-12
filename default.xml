@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <manifest>
+     <remote name="GitHubBlueQuartz" alias="origin" fetch="ssh://git@github.com/BlueQuartzSoftware"/>
+     <remote name="GitHubDREAM3D" alias="origin" fetch="ssh://git@github.com/dream3d"/>
+     <remote name="Thor" alias="origin" fetch="ssh://git@thor.bluequartz.net"/>
+     <default remote="GitHubBlueQuartz" revision="develop" sync-j="8"/>
+     <project name="CMP" path="SIMPL" remote="GitHubBlueQuartz"/>
+     <project name="SIMPL" path="SIMPL" remote="GitHubBlueQuartz"/>
+     <project name="SIMPLView" path="SIMPLView" remote="GitHubBlueQuartz"/>\
+     <project name="DREAM3D" path="DREAM3D" remote="GitHubDREAM3D"/>
+     <project name="AMProcessMonitoring" path="DREAM3D_Plugins/AMProcessMonitoring" remote="GitHubDREAM3D"/>
+     <project name="ProcessModeling" path="DREAM3D_Plugins/ProcessModeling" remote="GitHubDREAM3D"/>
+     <project name="DDDAnalysisToolbox" path="DREAM3D_Plugins/DDDAnalysisToolbox" remote="GitHubDREAM3D"/>
+     <project name="HEDMAnalysis" path="DREAM3D_Plugins/HEDMAnalysis" remote="GitHubDREAM3D"/>
+     <project name="ImageProcessing" path="DREAM3D_Plugins/ImageProcessing" remote="GitHubDREAM3D"/>
+     <project name="TransformationPhase" path="DREAM3D_Plugins/TransformationPhase" remote="GitHubDREAM3D"/>
+     <project name="UCSBUtilities" path="DREAM3D_Plugins/UCSBUtilities" remote="GitHubDREAM3D"/>
+     <project name="BrukerIntegration" path="DREAM3D_Plugins/BrukerIntegration" remote="Thor"/>
+     <project name="CAxisByPolarizedLight" path="DREAM3D_Plugins/CAxisByPolarizedLight" remote="Thor"/>
+     <project name="DictionaryIndexing" path="DREAM3D_Plugins/DictionaryIndexing" remote="Thor"/>
+     <project name="Leroy2" path="DREAM3D_Plugins/Leroy2" remote="Thor"/>
+     <project name="NETLIntegration" path="DREAM3D_Plugins/NETLIntegration" remote="Thor"/>
+     <project name="VolumeMeshing" path="DREAM3D_Plugins/VolumeMeshing" remote="Thor"/>
+     <project name="ZeissImport" path="DREAM3D_Plugins/ZeissImport" remote="Thor"/>
+ </manifest>
