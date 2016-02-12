@@ -4,7 +4,7 @@
      <remote name="GitHubDREAM3D" alias="origin" fetch="ssh://git@github.com/dream3d"/>
      <remote name="Thor" alias="origin" fetch="ssh://git@thor.bluequartz.net"/>
      <default remote="GitHubBlueQuartz" revision="develop" sync-j="8"/>
-     <project name="CMP" path="SIMPL" remote="GitHubBlueQuartz"/>
+     <project name="CMP" path="CMP" remote="GitHubBlueQuartz"/>
      <project name="SIMPL" path="SIMPL" remote="GitHubBlueQuartz"/>
      <project name="SIMPLView" path="SIMPLView" remote="GitHubBlueQuartz"/>\
      <project name="DREAM3D" path="DREAM3D" remote="GitHubDREAM3D"/>
