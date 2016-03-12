@@ -20,6 +20,7 @@
      <project name="CAxisByPolarizedLight" path="DREAM3D_Plugins/CAxisByPolarizedLight" remote="Thor"/>
      <project name="DictionaryIndexing" path="DREAM3D_Plugins/DictionaryIndexing" remote="Thor"/>
      <project name="Leroy2" path="DREAM3D_Plugins/Leroy2" remote="Thor"/>
+     <project name="MDCToolbox" path="DREAM3D_Plugins/MDCToolbox remote="GitHubBlueQuartz"/>
      <project name="NETLIntegration" path="DREAM3D_Plugins/NETLIntegration" remote="Thor"/>
      <project name="VolumeMeshing" path="DREAM3D_Plugins/VolumeMeshing" remote="Thor"/>
      <project name="ZeissImport" path="DREAM3D_Plugins/ZeissImport" remote="Thor"/>
