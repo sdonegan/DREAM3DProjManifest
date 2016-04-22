@@ -24,5 +24,6 @@
      <project name="MDCToolbox" path="DREAM3D_Plugins/MDCToolbox" remote="GitHubBlueQuartz"/>
      <project name="NETLIntegration" path="DREAM3D_Plugins/NETLIntegration" remote="Thor"/>
      <project name="VolumeMeshing" path="DREAM3D_Plugins/VolumeMeshing" remote="Thor"/>
+     <project name="VtkToolbox" path="DREAM3D_Plugins/VtkToolbox" remote="Thor"/>
      <project name="ZeissImport" path="DREAM3D_Plugins/ZeissImport" remote="Thor"/>
  </manifest>
