@@ -9,7 +9,6 @@
      <project name="SIMPLView" path="SIMPLView" remote="GitHubBlueQuartz"/>
      <project name="ITKImageProcessing" path="DREAM3D_Plugins/ITKImageProcessing" remote="GitHubBlueQuartz"/>
      <project name="DREAM3D" path="DREAM3D" remote="GitHubDREAM3D"/>
-     <project name="BQWorx" path="BQWorx" remote="GitHubDREAM3D"/>
      <project name="AMProcessMonitoring" path="DREAM3D_Plugins/AMProcessMonitoring" remote="GitHubDREAM3D"/>
      <project name="Anisotropy" path="DREAM3D_Plugins/Anisotropy" remote="GitHubDREAM3D"/>
      <project name="ProcessModeling" path="DREAM3D_Plugins/ProcessModeling" remote="GitHubDREAM3D"/>
