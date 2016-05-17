@@ -20,6 +20,7 @@
      <project name="BrukerIntegration" path="DREAM3D_Plugins/BrukerIntegration" remote="Thor"/>
      <project name="CAxisByPolarizedLight" path="DREAM3D_Plugins/CAxisByPolarizedLight" remote="Thor"/>
      <project name="DictionaryIndexing" path="DREAM3D_Plugins/DictionaryIndexing" remote="Thor"/>
+     <project name="Fusion" path="DREAM3D_Plugins/Fusion" remote="Thor"/>
      <project name="Leroy2" path="DREAM3D_Plugins/Leroy2" remote="Thor"/>
      <project name="MDCToolbox" path="DREAM3D_Plugins/MDCToolbox" remote="GitHubBlueQuartz"/>
      <project name="NETLIntegration" path="DREAM3D_Plugins/NETLIntegration" remote="Thor"/>
