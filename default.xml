@@ -15,6 +15,7 @@
      <project name="DDDAnalysisToolbox" path="DREAM3D_Plugins/DDDAnalysisToolbox" remote="GitHubDREAM3D"/>
      <project name="HEDMAnalysis" path="DREAM3D_Plugins/HEDMAnalysis" remote="GitHubDREAM3D"/>
      <project name="ImageProcessing" path="DREAM3D_Plugins/ImageProcessing" remote="GitHubDREAM3D"/>
+     <project name="MASSIFUtilities" path="DREAM3D_Plugins/MASSIFUtilities" remote="GitHubDREAM3D"/>
      <project name="TransformationPhase" path="DREAM3D_Plugins/TransformationPhase" remote="GitHubDREAM3D"/>
      <project name="UCSBUtilities" path="DREAM3D_Plugins/UCSBUtilities" remote="GitHubDREAM3D"/>
      <project name="BrukerIntegration" path="DREAM3D_Plugins/BrukerIntegration" remote="Thor"/>
