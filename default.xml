@@ -18,14 +18,14 @@
      <project name="MASSIFUtilities" path="DREAM3D_Plugins/MASSIFUtilities" remote="GitHubDREAM3D"/>
      <project name="TransformationPhase" path="DREAM3D_Plugins/TransformationPhase" remote="GitHubDREAM3D"/>
      <project name="UCSBUtilities" path="DREAM3D_Plugins/UCSBUtilities" remote="GitHubDREAM3D"/>
-     <project name="BrukerIntegration" path="DREAM3D_Plugins/BrukerIntegration" remote="Thor"/>
+     <!--<project name="BrukerIntegration" path="DREAM3D_Plugins/BrukerIntegration" remote="Thor"/>-->
      <project name="CAxisByPolarizedLight" path="DREAM3D_Plugins/CAxisByPolarizedLight" remote="Thor"/>
-     <project name="DictionaryIndexing" path="DREAM3D_Plugins/DictionaryIndexing" remote="Thor"/>
+     <!--<project name="DictionaryIndexing" path="DREAM3D_Plugins/DictionaryIndexing" remote="Thor"/>-->
      <project name="Fusion" path="DREAM3D_Plugins/Fusion" remote="Thor"/>
-     <project name="Leroy2" path="DREAM3D_Plugins/Leroy2" remote="Thor"/>
+     <!--<project name="Leroy2" path="DREAM3D_Plugins/Leroy2" remote="Thor"/>-->
      <project name="MDCToolbox" path="DREAM3D_Plugins/MDCToolbox" remote="GitHubBlueQuartz"/>
-     <project name="NETLIntegration" path="DREAM3D_Plugins/NETLIntegration" remote="Thor"/>
+     <!--<project name="NETLIntegration" path="DREAM3D_Plugins/NETLIntegration" remote="Thor"/>-->
      <project name="VolumeMeshing" path="DREAM3D_Plugins/VolumeMeshing" remote="Thor"/>
-     <project name="VtkToolbox" path="DREAM3D_Plugins/VtkToolbox" remote="Thor"/>
+     <!--<project name="VtkToolbox" path="DREAM3D_Plugins/VtkToolbox" remote="Thor"/>-->
      <project name="ZeissImport" path="DREAM3D_Plugins/ZeissImport" remote="Thor"/>
  </manifest>
